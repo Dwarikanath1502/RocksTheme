@@ -1,0 +1,21 @@
+{
+    "name": "codehouseTheme",
+    "displayName": "colorHouse",
+    "description": "Trying tp create a theme suitable for all the developers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "RocksTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/RocksTheme-color-theme.json"
+            }
+        ]
+    }
+}
