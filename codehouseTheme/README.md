@@ -1,13 +1,34 @@
-# README
-## This is the README for your extension "codehouseTheme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# RockingTheme
+A customised color theme of VS code IDE.
+## Installation
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+```bash
+  To install this theme go to VS code Extensions 
+  and search for RockingTheme by author Dwarikanath
+  and click on install.
+  That's all... Welocome to the RockingTheme.
+```
+    
+## Author
 
-**Enjoy!**
+- Dwarikanath
+## Acknowledgement
+
+During this project, I tried to reuduce the
+strain to eyes of programmers while coding.
+I worked with different sections of IDE, such as:
+
+- Editor 
+- Tab
+- Terminal
+- Panel
+- Sidebar
+- Activity Bar
+  
+## Support
+
+For any query support or suggestions, connect me on 
+Instagram @dwarikanath1502(Dwarikanath)
+
+  

@@ -13,10 +13,26 @@
 		"tab.border": "#070707",
 		"tab.activeBorder": "#fff",
 		"tab.activeForeground": "#ccc",
+		"tab.hoverBorder": "#5d5fe2",
+		"tab.lastPinnedBorder": "#7FFFD4",
+				
 
 		//terminal
-		"terminal.background": "#000000",
-		"terminal.foreground": "#fff"
+		"terminal.background": "#111111",
+		"terminal.foreground": "#fff",
+		"terminalCursor.foreground": "#fff",
+		
+
+		//panel
+		"panel.background": "#000",
+		// "panel.border": "#ccc",
+		
+		//sidebar
+		"sideBar.background": "#242323",
+
+		//activitybar		
+			
+		
 		
 	},
 	"tokenColors": [
